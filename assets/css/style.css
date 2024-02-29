@@ -5,6 +5,7 @@ body, html {
     transition: background-color 0.3s ease;
 }
 
+
 /* Dark Mode */
 body.dark-mode {
     background-color: #202124;
