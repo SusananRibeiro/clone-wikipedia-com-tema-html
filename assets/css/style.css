@@ -22,13 +22,6 @@ a {
     text-decoration: none;
 }
 
-.bar {
-    background-color: #f9f9fb;
-    padding:15px;
-    border-top: solid 1px #cdcdcd;
-    border-bottom: solid 1px #cdcdcd;
-}
-
 .content {
     max-width: 1440px;
     margin: auto;
